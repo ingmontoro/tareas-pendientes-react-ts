@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { ListaTareas } from "./Listatareas"
+import { ListaTareas } from "./ListaTareas"
 
 export const TodoApp = () => {
     const [nuevaTarea, setNuevaTarea] = useState<string>('')
