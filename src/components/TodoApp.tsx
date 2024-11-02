@@ -53,7 +53,7 @@ export const TodoApp = () => {
 
     return (
         <div>
-            <h1>Lista de tareas</h1>
+            <h1>Lista de Tareas</h1>
             <div className="flex">
                 <input
                 type="text"
